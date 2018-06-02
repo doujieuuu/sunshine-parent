@@ -65,7 +65,6 @@ out
  
 # Eclipse Project files
 .classpath
-.project
 .settings/
  
 bin/
