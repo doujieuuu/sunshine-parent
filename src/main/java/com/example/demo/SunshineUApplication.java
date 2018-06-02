@@ -8,5 +8,6 @@ public class SunshineUApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SunshineUApplication.class, args);
+		//
 	}
 }
